@@ -3,8 +3,8 @@
 <div> 
  
   <a href="https://github.com/rafaelsantos499">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelSantos-S&show_icons=true&theme=tokyonight"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSantos-S&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelSantos&show_icons=true&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSantos&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
  <br/> Sou um Front-end em constante evolução!:computer:
