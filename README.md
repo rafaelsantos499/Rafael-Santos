@@ -23,7 +23,7 @@
   <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/rafaelsantos499/rafaelsantos499/blob/output/github-contribution-grid-snake.svgg)
+![Snake animation](https://github.com/Lucasantos-S/Lucasantos-S/blob/output/github-contribution-grid-snake.svg)
 
 
 
